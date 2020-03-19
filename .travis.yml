@@ -1,4 +1,4 @@
-# ci配置
+# ci配置，介入travis进行ci，会在commit时执行该脚本，当该脚本跑成功后，才能commit成功
 language: node_js
 
 sudu: false
